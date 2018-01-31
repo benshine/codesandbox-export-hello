@@ -1,0 +1,21 @@
+{
+  "name": "kk63k7kqw7",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "ramda": "0.25.0",
+    "material-ui": "0.20.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
